@@ -1,1 +1,1 @@
-# testviruusesdownload
+run only on vm
